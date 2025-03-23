@@ -37,6 +37,13 @@
 
 ---
 
+## 👀 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhav2006&label=Profile%20Views&color=F7C41C&style=flat" />
+</p>
+
+---
+
 ## ⚡ Skills & Technologies:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,mongodb,express,html,css,linux" />
