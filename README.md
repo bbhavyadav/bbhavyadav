@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Developer & Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Problem+Solver;Lifelong+Learner;Coding+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7C41C&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Problem+Solver;Lifelong+Learner;Coding+Enthusiast" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Achievements:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhav2006&theme=algolia&no-frame=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhav2006&theme=gitdimmed&column=6&no-frame=true&margin-w=10&rank=SSS,SS,S,AAA,AA,A" />
 </p>
 
 ---
