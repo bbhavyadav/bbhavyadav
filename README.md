@@ -31,8 +31,14 @@
 ---
 
 ## 🏆 GitHub Achievements:
+### 🎖 Trophy Badges:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhav2006&theme=gitdimmed&column=6&no-frame=true&margin-w=10&rank=SSS,SS,S,AAA,AA,A" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhav2006&theme=monokai&column=6&no-frame=true&margin-w=10" />
+</p>
+
+### 🌟 Achievements:
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=bhav2006" />
 </p>
 
 ---
