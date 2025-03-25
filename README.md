@@ -1,11 +1,8 @@
-<h1 align="center">I'm Bhavya 👋</h1>
+<h1 align="center">I'm Bhavya 👋  
+  <img src="https://komarev.com/ghpvc/?username=bhav2006&color=F7C41C&style=flat" align="right" />
+</h1>
+
 <h3 align="center">Passionate Developer & Problem Solver</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7C41C&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Problem+Solver;Lifelong+Learner;Coding+Enthusiast" />
-</p>
-
----
 
 ## 🌐 Connect with Me:
 <p align="center">
@@ -37,15 +34,8 @@
 
 ---
 
-## 👀 Profile Views:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhav2006&label=Profile%20Views&color=F7C41C&style=flat" />
-</p>
-
----
-
 ## ⚡ Skills & Technologies:
-<p align="left-side">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,mongodb,express,html,css,linux" />
 </p>
 
