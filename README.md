@@ -45,7 +45,7 @@
 ---
 
 ## ⚡ Skills & Technologies:
-<p align="center">
+<p align="left-side">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,mongodb,express,html,css,linux" />
 </p>
 
