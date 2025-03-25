@@ -1,6 +1,9 @@
 <h1 align="center">I'm Bhavya 👋  
   <img src="https://komarev.com/ghpvc/?username=bhav2006&color=F7C41C&style=flat" align="right" />
 </h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <h3 align="center">Passionate Developer & Problem Solver</h3>
 
