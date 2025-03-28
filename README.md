@@ -54,10 +54,10 @@
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhav2006&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbhavyadav&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhav2006&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav2006&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bbhavyadav&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbhavyadav&layout=compact&theme=dark" />
 </p>
