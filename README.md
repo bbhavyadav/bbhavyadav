@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhav2006&theme=monokai&column=6&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bbhavyadav&theme=monokai&column=6&no-frame=true&margin-w=10" />
 </p>
 
 ---
