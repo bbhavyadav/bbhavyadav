@@ -1,8 +1,9 @@
 <h1 align="center">I'm Bhavya 👋  
-  <img src="https://komarev.com/ghpvc/?username=bhav2006&color=F7C41C&style=flat" align="right" />
+  <img src="https://komarev.com/ghpvc/?username=bbhavyadav&color=F7C41C&style=flat" align="right" />
 </h1>
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <h3 align="center">Passionate Developer & Problem Solver</h3>
@@ -12,7 +13,7 @@
   <a href="https://www.linkedin.com/in/bbhavyadav">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/bbhavyae?igsh=Y2Z6ZHU1N28yNmRk">
+  <a href="https://www.instagram.com/bbhavyadav?igsh=Y2Z6ZHU1N28yNmRk">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/bbhavyadav">
@@ -41,20 +42,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,mongodb,express,html,css,linux" />
 </p>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo" />
 </div>
 
 ---
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbhavyadav&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=bbhavyadav&theme=dark" />
 </p>
 
 <p align="center">
