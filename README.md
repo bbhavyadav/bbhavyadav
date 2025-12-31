@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/bbhavyadav">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/bhavyae">
+  <a href="https://www.instagram.com/bbhavyae">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/bbhavyadav">
@@ -33,7 +33,7 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bbhavyadav&theme=monokai&column=6&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bbhavyadav&theme=onedark&row=2&column=4&no-frame=true" />
 </p>
 
 ---
