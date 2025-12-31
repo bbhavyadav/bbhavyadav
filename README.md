@@ -24,17 +24,10 @@
 ---
 
 ## 🚀 About Me:
-- 💡 Passionate about **building scalable applications** & **solving real-world problems**  
-- 🎯 Currently focusing on **Full Stack Development**  
-- 📫 Reach me at: **bhavyayadav793@gmail.com**  
+- 💡 Passionate about **building scalable applications** & **solving real-world problems**
+- 🎯 Currently focusing on **Full Stack Development**
+- 📫 Reach me at: **bhavyayadav793@gmail.com**
 - 🚀 Exploring **Open Source Contributions**
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://trophygh.vercel.app/?username=bbhavyadav&theme=onedark&no-frame=true" />
-</p>
 
 ---
 
