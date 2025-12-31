@@ -33,7 +33,7 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bbhavyadav&theme=onedark&row=2&column=4&no-frame=true" />
+  <img src="https://trophygh.vercel.app/?username=bbhavyadav&theme=onedark&no-frame=true" />
 </p>
 
 ---
