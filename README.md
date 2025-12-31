@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/bbhavyadav">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/bbhavyadav?igsh=Y2Z6ZHU1N28yNmRk">
+  <a href="https://www.instagram.com/bhavyae">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/bbhavyadav">
@@ -27,7 +27,7 @@
 - 💡 Passionate about **building scalable applications** & **solving real-world problems**  
 - 🎯 Currently focusing on **Full Stack Development**  
 - 📫 Reach me at: **bhavyayadav793@gmail.com**  
-- 🚀 Exploring **Open Source Contributions**  
+- 🚀 Exploring **Open Source Contributions**
 
 ---
 
@@ -44,11 +44,11 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" />
 </div>
 
 ---
