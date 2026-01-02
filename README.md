@@ -16,6 +16,9 @@
   <a href="https://www.instagram.com/bbhavyae">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/bbhavyadav">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
